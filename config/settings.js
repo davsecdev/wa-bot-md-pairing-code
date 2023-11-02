@@ -40,7 +40,7 @@ module.exports = {
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
-  mongodb_uri: 'Your MongoDb URI', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'mongodb+srv://vibewizard:n69j5uDK1lPeXlB2@cluster0.l9zowil.mongodb.net/?retryWrites=true&w=majority', // Register here: https://mongodb.com/#sign-up
   api: {
     dani: {
       api_url: 'https://daniapi.biz.id',
@@ -48,16 +48,16 @@ module.exports = {
     },
     caliph: {
       api_url: 'https://api.caliph.biz.id', // Register here: https://api.caliph.biz.id/#sign-up
-      api_key: 'Your API Key'
+      api_key: 't2UQjbJ9'
     }
   },
   bot: {
-    name: 'Bot Name',
+    name: 'Delta Botz',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
     name: ["Owner Name"],
-    number: ["628xxx"]
+    number: ["62895347034807"]
   },
   daily_limit: {
     free: 50,
@@ -66,7 +66,7 @@ module.exports = {
   watermark: {
     sticker: {
       package_name: 'Created by',
-      author_name: 'Your Name'
+      author_name: 'davsec'
     }
   },
   react: {
