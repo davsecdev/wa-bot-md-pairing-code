@@ -44,7 +44,7 @@ module.exports = {
   api: {
     dani: {
       api_url: 'https://daniapi.biz.id',
-      api_key: 'Your API Key' // Register here: https://daniapi.biz.id/#sign-up
+      api_key: 'sk-h6k1azkuwoivryu3p' // Register here: https://daniapi.biz.id/#sign-up
     },
     caliph: {
       api_url: 'https://api.caliph.biz.id', // Register here: https://api.caliph.biz.id/#sign-up
